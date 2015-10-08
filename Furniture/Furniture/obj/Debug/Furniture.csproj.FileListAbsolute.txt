@@ -7,3 +7,6 @@ C:\Users\admin\Desktop\Занятие 1\Proekt\Furniture\Furniture\bin\Debug\Fur
 C:\Users\admin\Desktop\Занятие 1\Proekt\Furniture\Furniture\bin\Debug\Furniture.pdb
 C:\Users\admin\Desktop\Занятие 1\Proekt\Furniture\Furniture\obj\Debug\Furniture.exe
 C:\Users\admin\Desktop\Занятие 1\Proekt\Furniture\Furniture\obj\Debug\Furniture.pdb
+C:\Users\student\Desktop\Proekt\Furniture\Furniture\bin\Debug\Furniture.exe.config
+C:\Users\student\Desktop\Proekt\Furniture\Furniture\obj\Debug\Furniture.exe
+C:\Users\student\Desktop\Proekt\Furniture\Furniture\obj\Debug\Furniture.pdb
